@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio_v2/static/css/main.ad091067.css",
+    "main.js": "/portfolio_v2/static/js/main.bec6833e.js",
+    "static/media/e-commerce.png": "/portfolio_v2/static/media/e-commerce.a0223851cde80f610f67.png",
+    "static/media/meal.png": "/portfolio_v2/static/media/meal.19d3aedece7e822a2684.png",
+    "static/media/daniel.png": "/portfolio_v2/static/media/daniel.bfd05796964d96678331.png",
+    "static/media/just-watch.png": "/portfolio_v2/static/media/just-watch.4b0e9f3008d7952ac046.png",
+    "static/media/weather.png": "/portfolio_v2/static/media/weather.62d7681253471ffdbef3.png",
+    "static/media/realtor.png": "/portfolio_v2/static/media/realtor.ffb34c205e3f428271da.png",
+    "static/media/simon.png": "/portfolio_v2/static/media/simon.a4b02e0e076d12ad92b1.png",
+    "static/media/Deliciousss.png": "/portfolio_v2/static/media/Deliciousss.aacee11851e6d3b50a7e.png",
+    "static/media/youtube.png": "/portfolio_v2/static/media/youtube.ee1853693b0f3dc80cc4.png",
+    "static/media/noise.gif": "/portfolio_v2/static/media/noise.93fe26ae97a4df3d4e67.gif",
+    "static/media/devfolio.png": "/portfolio_v2/static/media/devfolio.d3d4548fd353a187ba76.png",
+    "static/media/shoppingcart.png": "/portfolio_v2/static/media/shoppingcart.090ff73e59f9892b1d3b.png",
+    "static/media/bookmark.png": "/portfolio_v2/static/media/bookmark.b786849ad10a5f9356f9.png",
+    "static/media/login.png": "/portfolio_v2/static/media/login.1e082d2cc0b356648f3e.png",
+    "static/media/dashboard.png": "/portfolio_v2/static/media/dashboard.07ad7b692de46f074c2a.png",
+    "static/media/portfolio.png": "/portfolio_v2/static/media/portfolio.0e4faf627a17cebd46cf.png",
+    "static/media/crud.png": "/portfolio_v2/static/media/crud.5fd601d3593d1da34ad0.png",
+    "static/media/chat.png": "/portfolio_v2/static/media/chat.49515848afc8dd58834d.png",
+    "static/media/flower2.svg": "/portfolio_v2/static/media/flower2.d85665561c29d4a416f4112dc9c25e12.svg",
+    "static/media/Red_asterisk.svg": "/portfolio_v2/static/media/Red_asterisk.68f436c5eae808037a20.svg",
+    "static/media/flower.svg": "/portfolio_v2/static/media/flower.b9aa5e11614c4adc09a5c5911b917f12.svg",
+    "index.html": "/portfolio_v2/index.html",
+    "static/media/another.svg": "/portfolio_v2/static/media/another.98b9a2edecc7e76b584d8c1558fee71b.svg",
+    "static/media/arrow.svg": "/portfolio_v2/static/media/arrow.a26853cbef266739aae330935f034685.svg",
+    "main.ad091067.css.map": "/portfolio_v2/static/css/main.ad091067.css.map",
+    "main.bec6833e.js.map": "/portfolio_v2/static/js/main.bec6833e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad091067.css",
+    "static/js/main.bec6833e.js"
+  ]
+}
